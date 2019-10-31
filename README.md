@@ -13,7 +13,7 @@
 
   I also was approached by the executives of Nexus Valley Solutions LLC, including my professor for the course, to help them with some intern work. NVS provides a curriculum to teach kids Python using the same mouse-robots (Mazey, provided by NVS) we used.
 
-  I created Python applications that walked through the process of how to start from absolute basic movement to a working random guesser algorithm with a function library. Each application iterated the previous, trying to emulate how the student may build their program. It also contained comments explaining pros and cons of each iteration, possible improvements to each iteration, etc.
+  I created technical tutorials through Python applications. These programs walked through the process of how to start from absolute basic movement to a working random guesser algorithm with a function library. Each application iterated the previous, trying to emulate how the student may build their program. It also contained comments explaining pros and cons of each iteration, possible improvements to each iteration, etc.
 
 ## Next Steps..?
 Being that the course/project is over, updating this is not a priorty but should I return to it I'd like to
